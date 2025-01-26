@@ -1,5 +1,7 @@
 # Introduction to Data Analysis with Pandas
 
+![img](images/panda.jpeg)
+
 You can open the Colab version [here](https://colab.research.google.com/drive/1GcZCHSrdWA-XyXsEDok3l5SE7aeqkQF9?usp=sharing)
 
 **Topics covered:**
